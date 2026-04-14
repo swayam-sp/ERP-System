@@ -1,6 +1,7 @@
 # Uni Portal — University ERP
 
 A frontend-only University ERP portal with Student, Faculty, and Admin dashboards.
+**This App is Still Under Build , this is only the Frontend part.**
 
 ## Prerequisites
 
